@@ -1,0 +1,7 @@
+# Build context is repo root. Keep it lean — drop stuff the build never needs.
+target
+dist
+.git
+.github
+*.gif
+BINARY-BUILDER/dist
